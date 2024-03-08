@@ -1,4 +1,4 @@
-package com.pluralsight.courseinfo.cli;
+package com.pluralsight.courseinfo.cli.CourseRetriever;
 
 import com.pluralsight.courseinfo.cli.service.CourseRetrievalService;
 import com.pluralsight.courseinfo.cli.service.PluralsightCourse;
